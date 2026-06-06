@@ -56,5 +56,5 @@ The analysis reveals strong small-world characteristics, highly connected transf
 ## Repository Contents
 
 - Paper,414(1)pdf
-- Poster.pdf
+- poster_presentation.pdf
 - Figures and Visualizations
